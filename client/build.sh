@@ -1,0 +1,1 @@
+'/home/frank/android-sdk/ndk-bundle/ndk-build' NDK_PROJECT_PATH=. APP_BUILD_SCRIPT=./Android.mk APP_ALLOW_MISSING_DEPS=true APP_ABI=x86
